@@ -1,0 +1,28 @@
+name: Lens Capital
+favicon: null
+layout_spectrum: 0.4665283812209964
+typography_spectrum: 0.9875548263080418
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6098118296358734
+  lightness: 0.19179124874062836
+  saturation: 0.7070381306111813
+  rhythmicContrast: 0.635505338665098
+purpose: []
