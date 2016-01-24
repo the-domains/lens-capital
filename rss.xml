@@ -4,8 +4,15 @@
         <description><![CDATA[Focused on the Future]]></description>
         <link>https://thegrid.ai/lens-capital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 21:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2016 21:39:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lens-capital/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[More Stuff]]></title>
+            <description><![CDATA[<article><h1>More Stuff</h1><p>Ill keep adding</p></article>]]></description>
+            <link>https://thegrid.ai/lens-capital/more-stuff/index.html</link>
+            <guid isPermaLink="false">403dedc3-394f-4080-bf81-8d9437e55998</guid>
+            <pubDate>Sun, 24 Jan 2016 21:39:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Designing for Advantage]]></title>
             <description><![CDATA[<article><h1>Designing for Advantage</h1><p>Designing for advantage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f801b8d1d7697d14ee0fac56c88d630eb67dd864.jpg"></article>]]></description>
