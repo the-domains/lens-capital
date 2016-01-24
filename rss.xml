@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Lens Capital]]></title>
-        <description><![CDATA[Lens Capital]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Focused on the Future]]></title>
+        <description><![CDATA[Focused on the Future]]></description>
+        <link>https://thegrid.ai/lens-capital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 21:23:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 21:37:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lens-capital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Designing for advantage.</p>]]></description>
-            <link>undefinedf1abd119-9b41-4a58-8943-edac2dbefd82/index.html</link>
+            <title><![CDATA[Designing for Advantage]]></title>
+            <description><![CDATA[<article><h1>Designing for Advantage</h1><p>Designing for advantage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f801b8d1d7697d14ee0fac56c88d630eb67dd864.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lens-capital/f1abd119-9b41-4a58-8943-edac2dbefd82/index.html</link>
             <guid isPermaLink="false">f1abd119-9b41-4a58-8943-edac2dbefd82</guid>
-            <pubDate>Sun, 24 Jan 2016 21:23:40 GMT</pubDate>
+            <pubDate>Sun, 24 Jan 2016 21:37:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
