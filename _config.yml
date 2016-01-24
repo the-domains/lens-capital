@@ -1,6 +1,6 @@
 name: Lens Capital
 favicon: null
-layout_spectrum: 0.25655
+layout_spectrum: 1
 typography_spectrum: 0.42961
 title: Focused on the Future
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.6098118296358734
   lightness: 0.19179124874062836
   saturation: 0.7070381306111813
-  rhythmicContrast: 0.635505338665098
+  rhythmicContrast: 1
 purpose: []
